@@ -6,14 +6,8 @@ using System.Threading.Tasks;
 
 namespace LeetCode_Practice
 {
-    class Program
+    class Helper
     {
-        static void Main(string[] args)
-        {
-
-            //new Q12.Solution().Test_Case();
-
-
-        }
+        static string LogPath = @"";
     }
 }
