@@ -13,7 +13,8 @@ namespace LeetCode_Practice
             public int RomanToInt(string s)
             {
                 Dictionary<string, int> RomanNumerals_Lkup = new Dictionary<string, int> ();
-                    
+
+                return 123;
             }
 
             public string IntToRoman(int num)
